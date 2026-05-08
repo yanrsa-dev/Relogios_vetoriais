@@ -1,2 +1,4 @@
-# RelogiosVetoriais_C
-Base para a implementação de relógios vetoriais em C
+### INTEGRANTES
+*Gabriel Almeida Mota Bomfim
+*Pedro Caldas de Souza Lucas Marques
+*Yan Rocha de Sá
